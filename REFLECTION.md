@@ -1,0 +1,2 @@
+Your Final Thoughts:
+Before seeing the resutls of my functions, I was confident that I would have similar if not exact results I expected. I would ccombine the even and odd functions since they are related. I would also add other checks to sanitize input to each of the functions to make sure that the results make sense. I see how this exercise starts small but can grow with additions and revisions.
